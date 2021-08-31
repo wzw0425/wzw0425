@@ -1,0 +1,12 @@
+com\usian\mapper\ItemDescMapper.class
+com\usian\mapper\OrderShippingMapper.class
+com\usian\mapper\ItemCatMapper.class
+com\usian\config\MybatisPlusPageConfig.class
+com\usian\mapper\ItemParamMapper.class
+com\usian\mapper\UserMapper.class
+com\usian\mapper\ContentMapper.class
+com\usian\mapper\ItemMapper.class
+com\usian\mapper\ItemParamItemMapper.class
+com\usian\mapper\OrderItemMapper.class
+com\usian\mapper\OrderMapper.class
+com\usian\mapper\ContentCategoryMapper.class

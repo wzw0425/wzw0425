@@ -1,0 +1,6 @@
+com\usian\linstener\ItemQueueLinstener.class
+com\usian\controller\ESController.class
+com\usian\SearchServiceApp.class
+com\usian\service\ESService.class
+com\usian\config\ElasticsearchConfig.class
+com\usian\util\EsUtil.class
